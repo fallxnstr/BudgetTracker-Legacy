@@ -2,7 +2,7 @@
 
 ## About
 
-Simple app I was developing for the sake of getting familiar with UI design, the Rust language.
+Budget Tracker built for UI/UX Testing with Slint & Rust
 
 ## Usage
    1. Open the App.exe file that is already pre-compiled and optimized. Or open the Main.rs file and compile the app on your machine.
